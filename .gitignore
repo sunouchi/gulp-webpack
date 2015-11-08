@@ -1,0 +1,5 @@
+.DS_Store
+sftp-config.json
+build/*
+node_modules/*
+bower_components/*

@@ -1,0 +1,21 @@
+{
+  "name": "gulp-webpack",
+  "version": "0.0.0",
+  "authors": [
+    "sunouchi <t@sunouchi.jp>"
+  ],
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "davis": "~0.9.8"
+  }
+}
