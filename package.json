@@ -10,7 +10,6 @@
   "license": "MIT",
   "devDependencies": {
     "async": "^1.4.2",
-    "bigwheel": "^3.0.2",
     "bluebird": "^2.9.34",
     "browser-sync": "^2.9.1",
     "coffee-loader": "^0.7.2",
